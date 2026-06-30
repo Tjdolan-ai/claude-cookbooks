@@ -92,6 +92,7 @@ These commands are available in Claude Code and CI:
 
 ```
 capabilities/      # Core Claude capabilities (RAG, classification, etc.)
+evals/             # Model evaluation patterns and benchmarks
 skills/            # Advanced skill-based notebooks
 tool_use/          # Tool use and integration patterns
 multimodal/        # Vision and image processing
